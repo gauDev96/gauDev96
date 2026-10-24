@@ -1,12 +1,12 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gaurab%20Mukherjee&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20React%20Native%20%7C%20BLE%20%26%20IoT&descAlignY=58&descSize=18" />
+  <img width="100%" src="https://raw.githubusercontent.com/gauDev96/gauDev96/main/banner.svg" alt="Gaurab Mukherjee - Software Engineer" />
 </p>
 
 <!-- Typing animation -->
 <p align="center">
   <a href="https://gaurab-mukherjee-portfolio.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=8%2B+apps+live+on+App+Store+%26+Google+Play+%F0%9F%93%B1;BLE+%7C+GPS+%7C+IoT+%7C+AI-powered+mobile+apps;35%25+faster+apps+with+Hermes+%26+perf+tuning+%E2%9A%A1;Redux+%7C+Socket.io+%7C+Firebase+%7C+Fastlane" alt="Typing SVG" />
+    <img width="800" src="https://raw.githubusercontent.com/gauDev96/gauDev96/main/typing.svg" alt="8+ apps live on App Store and Google Play" />
   </a>
 </p>
 
@@ -59,13 +59,13 @@ const gaurab = {
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,nestjs,graphql,mongodb,firebase,androidstudio,xcode,ruby,git,github,gitlab,postman,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,nestjs,graphql,mongodb,firebase,androidstudio,ruby,git,github,gitlab,postman,vscode&theme=dark" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black" />
+  <img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logoColor=black" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
 </p>
@@ -74,7 +74,7 @@ const gaurab = {
   <img src="https://img.shields.io/badge/BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" />
   <img src="https://img.shields.io/badge/GPS%20%26%20Maps-34A853?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20%26%20OCR-8E44AD?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20%26%20OCR-8E44AD?style=for-the-badge" />
 </p>
 
 <details>
@@ -144,11 +144,7 @@ const gaurab = {
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/m-gaurab"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/m-gaurab"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" /></a>
   <a href="mailto:gaurab.officialyt@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://gaurab-mukherjee-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" />
 </p>
