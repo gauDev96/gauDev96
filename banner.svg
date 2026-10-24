@@ -1,17 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="Gaurab Mukherjee - Software Engineer, React Native, BLE and IoT">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="310" viewBox="0 0 900 310" role="img" aria-label="Terminal: whoami - Gaurab Mukherjee, Software Engineer (React Native). Skills: BLE, GPS, IoT, AI, Redux, Socket.io, Fastlane. 8+ apps live on App Store and Google Play.">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0f2027"/>
-      <stop offset="0.5" stop-color="#203a43"/>
-      <stop offset="1" stop-color="#2c5364"/>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00E5FF" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#7ee787" stop-opacity="0.35"/>
     </linearGradient>
+
+    <clipPath id="c1"><rect x="20" y="60" width="0" height="28"><animate attributeName="width" from="0" to="240" dur="0.9s" begin="0.5s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="20" y="90" width="0" height="28"><animate attributeName="width" from="0" to="600" dur="1.2s" begin="1.7s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="20" y="130" width="0" height="28"><animate attributeName="width" from="0" to="330" dur="1s" begin="3.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="20" y="160" width="0" height="28"><animate attributeName="width" from="0" to="600" dur="1.3s" begin="4.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c5"><rect x="20" y="200" width="0" height="28"><animate attributeName="width" from="0" to="340" dur="1s" begin="6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c6"><rect x="20" y="230" width="0" height="28"><animate attributeName="width" from="0" to="540" dur="1.2s" begin="7.2s" fill="freeze"/></rect></clipPath>
   </defs>
-  <rect width="1000" height="200" rx="16" fill="url(#bg)"/>
-  <text x="500" y="95" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="50" font-weight="700" fill="#ffffff">Gaurab Mukherjee
-    <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
-  </text>
-  <rect x="440" y="112" width="120" height="3" rx="1.5" fill="#00E5FF"/>
-  <text x="500" y="152" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#00E5FF">Software Engineer | React Native | BLE &amp; IoT
-    <animate attributeName="opacity" from="0" to="1" begin="0.6s" dur="1.2s" fill="freeze"/>
-  </text>
+
+  <style>
+    .mono { font-family: 'Fira Code', 'JetBrains Mono', 'Courier New', monospace; font-size: 18px; }
+    .user { fill: #7ee787; }
+    .path { fill: #79c0ff; }
+    .txt  { fill: #c9d1d9; }
+    .acc  { fill: #00E5FF; }
+    .ok   { fill: #7ee787; font-weight: 700; }
+  </style>
+
+  <!-- window glow + body -->
+  <rect x="1" y="1" width="898" height="308" rx="12" fill="none" stroke="url(#glow)" stroke-width="2"/>
+  <rect x="2" y="2" width="896" height="306" rx="11" fill="#0d1117"/>
+
+  <!-- title bar -->
+  <path d="M2 38 V13 a11 11 0 0 1 11 -11 H887 a11 11 0 0 1 11 11 V38 Z" fill="#161b22"/>
+  <circle cx="26" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="48" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="70" cy="20" r="6" fill="#27c93f"/>
+  <text x="450" y="25" text-anchor="middle" class="mono txt" style="font-size:14px; fill:#8b949e;">gaurab@dev: ~/profile</text>
+
+  <!-- line 1 -->
+  <text x="30" y="80" class="mono" clip-path="url(#c1)"><tspan class="user">gaurab@dev</tspan><tspan class="txt">:</tspan><tspan class="path">~</tspan><tspan class="txt">$ whoami</tspan></text>
+  <!-- line 2 -->
+  <text x="30" y="110" class="mono acc" clip-path="url(#c2)">Gaurab Mukherjee | Software Engineer (React Native)</text>
+
+  <!-- line 3 -->
+  <text x="30" y="150" class="mono" clip-path="url(#c3)"><tspan class="user">gaurab@dev</tspan><tspan class="txt">:</tspan><tspan class="path">~</tspan><tspan class="txt">$ cat skills.txt</tspan></text>
+  <!-- line 4 -->
+  <text x="30" y="180" class="mono acc" clip-path="url(#c4)">BLE | GPS | IoT | AI | Redux | Socket.io | Fastlane</text>
+
+  <!-- line 5 -->
+  <text x="30" y="220" class="mono" clip-path="url(#c5)"><tspan class="user">gaurab@dev</tspan><tspan class="txt">:</tspan><tspan class="path">~</tspan><tspan class="txt">$ ./ship --status</tspan></text>
+  <!-- line 6 -->
+  <text x="30" y="250" class="mono" clip-path="url(#c6)"><tspan class="ok">[ OK ]</tspan><tspan class="txt"> 8+ apps live on App Store &amp; Google Play</tspan></text>
+
+  <!-- final prompt + blinking cursor -->
+  <text x="30" y="285" class="mono" opacity="0"><set attributeName="opacity" to="1" begin="8.6s"/><tspan class="user">gaurab@dev</tspan><tspan class="txt">:</tspan><tspan class="path">~</tspan><tspan class="txt">$</tspan></text>
+  <rect x="182" y="269" width="10" height="20" fill="#7ee787" opacity="0">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;0.5" calcMode="discrete" dur="1s" begin="8.6s" repeatCount="indefinite"/>
+  </rect>
 </svg>
