@@ -53,6 +53,21 @@ $ cat highlights.txt
 
 ### ⚙️ ~/stack
 
+```bash
+gaurab@dev:~$ tree ~/stack -L 1
+~/stack
+├── mobile/       react-native · expo · native-modules · fastlane
+├── language/     javascript · typescript
+├── state/        redux-toolkit · redux-saga · zustand · mvvm
+├── realtime/     socket.io · websocket · ble · ota-firmware
+├── maps/         google-maps-api · gps
+├── backend/      node · express · nestjs · graphql · firebase · mongodb · sql
+├── ai/           llm-apis · ocr · prompt-engineering · copilot · cursor
+└── tools/        git · gitlab · postman · flipper · android-studio · vscode
+
+8 directories, 0 bugs (so far) 🐛
+```
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,nestjs,graphql,mongodb,firebase,androidstudio,ruby,git,github,gitlab,postman,vscode&theme=dark" />
 </p>
@@ -72,25 +87,17 @@ $ cat highlights.txt
   <img src="https://img.shields.io/badge/AI%20%26%20OCR-8E44AD?style=for-the-badge" />
 </p>
 
-<details>
-<summary><code>$ ls -la skills/</code></summary>
-
-| Area | Skills |
-|---|---|
-| **Mobile** | React Native, Expo, RN CLI, Native Modules, React Navigation, Fastlane, Android Studio, Xcode |
-| **Languages** | JavaScript (ES6+), TypeScript, JSX |
-| **State & Architecture** | Redux Toolkit, Redux Saga, Zustand, MVVM, Clean Architecture |
-| **IoT & Hardware** | BLE, OTA Firmware Updates, Real-time Data Systems, Google Maps API |
-| **Real-time** | Socket.io, WebSocket |
-| **Backend & DB** | Node.js, Express, NestJS, GraphQL, Firebase (Auth, Firestore, FCM, Storage), MongoDB, SQL Server |
-| **AI** | LLM API integration, OCR, prompt engineering, Cursor, GitHub Copilot |
-| **Tools & Practice** | Git, GitHub, GitLab, Jira, Linear, Postman, Flipper, Agile/Scrum, SDLC |
-
-</details>
-
 ---
 
 ### 📊 ~/stats
+
+```bash
+gaurab@dev:~$ ./github-stats --user gauDev96 --live
+fetching commits.......... done
+fetching pull-requests.... done
+fetching languages........ done
+✔ stats compiled successfully
+```
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=gauDev96&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
@@ -104,6 +111,14 @@ $ cat highlights.txt
 ---
 
 ### 📌 ~/side-projects
+
+```bash
+gaurab@dev:~$ ls -lh ~/side-projects
+drwxr-xr-x  gaurab  Wearit-Shopping-Ecommerce-App   # shopping / e-commerce app
+drwxr-xr-x  gaurab  Quick_chat_app                  # chat app
+drwxr-xr-x  gaurab  pushNotification                # push notifications
+drwxr-xr-x  gaurab  navTechPro                      # shoe cart app
+```
 
 <p align="center">
   <a href="https://github.com/gauDev96/Wearit-Shopping-Ecommerce-App">
@@ -126,6 +141,11 @@ $ cat highlights.txt
 
 ### 🐍 ~/snake
 
+```bash
+gaurab@dev:~$ ./snake --eat contributions --theme dark
+🐍 snake is hungry... running on my contribution graph
+```
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gauDev96/gauDev96/output/github-snake-dark.svg" />
@@ -137,6 +157,17 @@ $ cat highlights.txt
 ---
 
 ### 📡 ~/contact
+
+```json
+// gaurab@dev:~$ cat contact.json
+{
+  "email": "gaurab.officialyt@gmail.com",
+  "linkedin": "linkedin.com/in/m-gaurab",
+  "portfolio": "gaurab-mukherjee-portfolio.vercel.app",
+  "github": "gauDev96",
+  "status": "open to challenging mobile projects 🟢"
+}
+```
 
 <p align="center">
   <a href="https://www.linkedin.com/in/m-gaurab"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" /></a>
