@@ -1,34 +1,27 @@
-<!-- Header banner -->
+<!-- Terminal banner -->
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/gauDev96/gauDev96/main/banner.svg" alt="Gaurab Mukherjee - Software Engineer" />
-</p>
-
-<!-- Typing animation -->
-<p align="center">
-  <a href="https://gaurab-mukherjee-portfolio.vercel.app/">
-    <img width="800" src="https://raw.githubusercontent.com/gauDev96/gauDev96/main/typing.svg" alt="8+ apps live on App Store and Google Play" />
-  </a>
+  <img width="100%" src="https://raw.githubusercontent.com/gauDev96/gauDev96/main/banner.svg" alt="Terminal: Gaurab Mukherjee, Software Engineer (React Native)" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-~4%20Years-00E5FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Live%20Apps-8%2B-34A853?style=flat-square" />
-  <img src="https://img.shields.io/badge/Performance%20Boost-35%25-F5A623?style=flat-square" />
-  <img src="https://img.shields.io/badge/On--time%20Sprints-95%25-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Experience-~4%20Years-00E5FF?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Live%20Apps-8%2B-7ee787?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Performance%20Boost-35%25-F5A623?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/On--time%20Sprints-95%25-79c0ff?style=flat-square&labelColor=0d1117" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gauDev96&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/gauDev96?tab=followers"><img src="https://img.shields.io/github/followers/gauDev96?style=flat&logo=github&color=2c5364" alt="followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=gauDev96&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+  <a href="https://github.com/gauDev96?tab=followers"><img src="https://img.shields.io/github/followers/gauDev96?style=flat-square&logo=github&color=2c5364" alt="followers" /></a>
 </p>
 
 <p align="center">
-  🌐 <b><a href="https://gaurab-mukherjee-portfolio.vercel.app/">See my work on my portfolio →</a></b>
+  <code>$ open</code> <b><a href="https://gaurab-mukherjee-portfolio.vercel.app/">gaurab-mukherjee-portfolio.vercel.app</a></b>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🖥️ ~/about.js
 
 ```js
 const gaurab = {
@@ -41,22 +34,24 @@ const gaurab = {
   mobile: ["React Native", "TypeScript", "Native Modules", "Fastlane"],
   state: ["Redux Toolkit", "Redux Saga", "Zustand", "MVVM"],
   backend: ["Node.js", "Express", "Firebase", "MongoDB", "NestJS", "GraphQL"],
-  shipped: "8+ production apps on App Store & Google Play",
   funFact: "Mechanical engineer turned mobile developer 🔧➡️📱",
   lookingFor: "Challenging mobile projects & open source collabs",
 };
 ```
 
-- 📱 **Software Engineer** building cross-platform **iOS & Android** apps, **8+ live** on App Store and Google Play
-- 🔌 Deep experience with **BLE device pairing, OTA firmware updates, live GPS and real-time data** (Socket.io / WebSocket)
-- 🤖 Building **AI-powered features**: LLM API integration and OCR in React Native
-- ⚡ Cut app load and render time by **35%** with Hermes, `React.memo`, FlatList tuning and memory management
-- 🚀 Own **release pipelines with Fastlane** and **drive sprint delivery** (95% on-time)
-- 🎓 B.Tech in Mechanical Engineering, then taught myself JavaScript and React Native
+```bash
+$ cat highlights.txt
+[✓] 8+ production apps live on App Store & Google Play
+[✓] BLE pairing, OTA firmware updates, live GPS & real-time sockets
+[✓] AI features: LLM APIs + OCR in React Native
+[✓] 35% faster apps: Hermes, React.memo, FlatList tuning
+[✓] Fastlane release pipelines, 95% on-time sprint delivery
+[✓] B.Tech Mechanical Engineering → self-taught JS & React Native
+```
 
 ---
 
-### 🛠️ Tech Stack
+### ⚙️ ~/stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,nestjs,graphql,mongodb,firebase,androidstudio,ruby,git,github,gitlab,postman,vscode&theme=dark" />
@@ -78,7 +73,7 @@ const gaurab = {
 </p>
 
 <details>
-<summary><b>Full skill breakdown</b></summary>
+<summary><code>$ ls -la skills/</code></summary>
 
 | Area | Skills |
 |---|---|
@@ -95,7 +90,7 @@ const gaurab = {
 
 ---
 
-### 📊 GitHub Stats
+### 📊 ~/stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=gauDev96&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
@@ -108,7 +103,7 @@ const gaurab = {
 
 ---
 
-### 📌 Open Source & Side Projects
+### 📌 ~/side-projects
 
 <p align="center">
   <a href="https://github.com/gauDev96/Wearit-Shopping-Ecommerce-App">
@@ -129,7 +124,7 @@ const gaurab = {
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 ~/snake
 
 <p align="center">
   <picture>
@@ -141,10 +136,14 @@ const gaurab = {
 
 ---
 
-### 🌐 Connect With Me
+### 📡 ~/contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/m-gaurab"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" /></a>
   <a href="mailto:gaurab.officialyt@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://gaurab-mukherjee-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+</p>
+
+<p align="center">
+  <code>while (alive) { eat(); sleep(); code(); repeat(); }</code>
 </p>
