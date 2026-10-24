@@ -92,20 +92,14 @@ gaurab@dev:~$ tree ~/stack -L 1
 ### 📊 ~/stats
 
 ```bash
-gaurab@dev:~$ ./github-stats --user gauDev96 --live
-fetching commits.......... done
-fetching pull-requests.... done
-fetching languages........ done
-✔ stats compiled successfully
+gaurab@dev:~$ ./impact --career --format dashboard
+loading metrics........... done
+loading languages......... done
+✔ dashboard compiled successfully
 ```
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gauDev96&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauDev96&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gauDev96&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img width="100%" src="https://raw.githubusercontent.com/gauDev96/gauDev96/main/stats.svg" alt="Career impact dashboard: ~4 years, 8+ live apps, 35% performance gain, 95% on-time sprints, language split" />
 </p>
 
 ---
@@ -121,20 +115,15 @@ drwxr-xr-x  gaurab  navTechPro                      # shoe cart app
 ```
 
 <p align="center">
-  <a href="https://github.com/gauDev96/Wearit-Shopping-Ecommerce-App">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gauDev96&repo=Wearit-Shopping-Ecommerce-App&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/gauDev96/Quick_chat_app">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gauDev96&repo=Quick_chat_app&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
+  <img width="100%" src="https://raw.githubusercontent.com/gauDev96/gauDev96/main/projects.svg" alt="Side projects: Wearit Shopping Ecommerce App, Quick chat app, pushNotification, navTechPro" />
 </p>
+
 <p align="center">
-  <a href="https://github.com/gauDev96/pushNotification">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gauDev96&repo=pushNotification&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/gauDev96/navTechPro">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=gauDev96&repo=navTechPro&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
+  <code>$ git clone</code>
+  <a href="https://github.com/gauDev96/Wearit-Shopping-Ecommerce-App">Wearit</a> ·
+  <a href="https://github.com/gauDev96/Quick_chat_app">Quick_chat_app</a> ·
+  <a href="https://github.com/gauDev96/pushNotification">pushNotification</a> ·
+  <a href="https://github.com/gauDev96/navTechPro">navTechPro</a>
 </p>
 
 ---
